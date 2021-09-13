@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalorieCalculator</string>
+
+    <string-array name="activities">
+        <item>Сидячий образ жизни</item>
+        <item>Умеренная  активность</item>
+        <item>Средняя активность</item>
+        <item>Активные  люди</item>
+        <item>Спортсмены  и  люди,  выполняющие  сходные  нагрузки</item>
+    </string-array>
+</resources>
